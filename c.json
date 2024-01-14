@@ -7,7 +7,7 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "./lib/live.jpg",
-		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+		    "epg": "	https://diyp.112114.xyz/",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
 
