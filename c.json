@@ -12,17 +12,17 @@
 	    }],
 
 	"sites":[
-{"key": "VIP影视","name": "🎦VIP┃秒播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/VIPyingshi.json"},
+{"key": "VIP影视","name": "公众号:影音玩吧","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/VIPyingshi.json"},
     {
       "key": "drpy_js_豆瓣",
-      "name": "公众号:影音玩吧",
+      "name": "🎦豆瓣",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "公众号:影音玩吧",
+      "name": "🎦豆瓣",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
